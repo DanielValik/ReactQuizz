@@ -257,3 +257,8 @@ progress {
   font-size: inherit;
   padding: 0.8rem;
 }
+
+.challenge {
+  font-family: sans-serif;
+  text-align: center;
+}
